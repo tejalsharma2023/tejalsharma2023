@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything coming my way 
 
 - 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ...
+  
 
 <!---
 tejalsharma2023/tejalsharma2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
